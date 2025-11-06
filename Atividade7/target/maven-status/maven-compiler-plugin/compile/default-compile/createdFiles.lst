@@ -1,0 +1,4 @@
+poo\Application.class
+poo\service\ProdutoService.class
+poo\Controller\ProdutoController.class
+poo\model\Produto.class
